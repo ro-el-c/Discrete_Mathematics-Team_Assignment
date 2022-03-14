@@ -1,6 +1,6 @@
 ## Discrete_Mathematics-Team_Assignment
 ### 2021 2-2 이산수학 팀 프로젝트
-#### 2번 다익스트라 알고리즘 구현 파트
+#### 2번 다익스트라 알고리즘 구현 파트 (Java)
 ---
 <br>
 
